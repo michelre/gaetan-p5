@@ -1,0 +1,18 @@
+{
+    "name": "remimichel/p5",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Remimichel\\P5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rémi Michel",
+            "email": "remi.michel38@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
